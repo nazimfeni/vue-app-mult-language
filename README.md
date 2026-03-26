@@ -6,7 +6,7 @@ This project is a Vue 3 application built with Vite, featuring a multi-language 
 
 ### 1. Create Vue 3 Project (Vite)
 ```bash
-npm create vite@latest . -- --template vue
+npm create vite@latest vue-app-multi-lang
 ```
 
 ### 2. Install vue-i18n
